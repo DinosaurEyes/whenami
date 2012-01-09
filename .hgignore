@@ -1,0 +1,6 @@
+syntax: regexp
+gen/.*
+bin/.*
+classpath
+.project
+.settings/
